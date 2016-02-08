@@ -1,0 +1,6 @@
+D:\Dev\EX\Excel_Automation_src\bin\Excel_Automation.exe
+D:\Dev\EX\Excel_Automation_src\bin\Excel_Automation.pdb
+D:\Dev\EX\Excel_Automation_src\bin\Excel_Automation.xml
+D:\Dev\EX\Excel_Automation_src\obj\Debug\Excel_Automation.exe
+D:\Dev\EX\Excel_Automation_src\obj\Debug\Excel_Automation.xml
+D:\Dev\EX\Excel_Automation_src\obj\Debug\Excel_Automation.pdb
